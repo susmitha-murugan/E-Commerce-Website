@@ -1,0 +1,78 @@
+.first-page {
+
+  color: white;
+  background-color: #404040;
+
+}
+
+li {
+  
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  margin:5px;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+.the-journal-heading {
+
+  text-align: center;
+  font-size: 45px;
+  color: white;
+  padding: 80px;
+  margin-top: 0px;
+
+}
+
+.column {
+
+  color:white;
+  padding: 50px;
+  background-color: #404040; /* White background color */
+  border: none;
+  margin: 0px;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+
+.column h2 {
+  font-size: 36px;
+}
+
+
+footer {
+  color: white;
+  background-color: #404040;
+}
+
+.contact {
+  display: inline-block;
+  margin-top: 0; /* Reset margin */
+}
+
+.contact li {
+  margin-right: 0px; /* Adjust margin between list items */
+}
